@@ -43,5 +43,5 @@ Contents
    :maxdepth: 1
    :caption: Frontend
 
-   frontend_react\src\components\HomeNew.js
+   frontend_react/src/components/HomeNew.js
    
