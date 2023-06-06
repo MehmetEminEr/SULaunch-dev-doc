@@ -52,6 +52,17 @@ Contents
    frontend/Project
    frontend/Auction
    frontend/Profile Page
+<<<<<<< HEAD
 =======
    
 >>>>>>> d7236fb (setup revert)
+=======
+   frontend/Not Authorized
+   frontend/Viewer
+   frontend/Admin
+   frontend/About
+   frontend/User Not Verified
+   frontend/User Verified
+   frontend/Apply 
+   frontend/How To Use
+>>>>>>> b974f93 (Changes to various frontend docs including updates)
