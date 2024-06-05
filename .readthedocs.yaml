@@ -11,7 +11,7 @@ build:
     python:
         version: "3.12"
         install:
-          - asdf global python 3.12.0
+          - asdf global python "3.12"
           - python -mvirtualenv $READTHEDOCS_VIRTUALENV_PATH
           - python -m pip install --upgrade --no-cache-dir pip setuptools sphinx readthedocs-sphinx-ext sphinxcontrib.httpdomain
     # You can also specify other tool versions:
