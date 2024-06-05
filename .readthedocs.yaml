@@ -9,7 +9,7 @@ build:
   os: ubuntu-22.04
   tools:
     python:
-        version: 3.12
+        version: "3.12"
         install:
           - asdf global python 3.12.0
           - python -mvirtualenv $READTHEDOCS_VIRTUALENV_PATH
