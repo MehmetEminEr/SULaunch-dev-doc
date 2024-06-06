@@ -114,10 +114,6 @@ Contents
    frontend/Auction
    frontend/Profile Page
 
-=======
-   
-
-=======
    frontend/Not Authorized
    frontend/Viewer
    frontend/Admin
