@@ -116,7 +116,7 @@ Contents
 
 =======
    
->>>>>>> d7236fb (setup revert)
+
 =======
    frontend/Not Authorized
    frontend/Viewer
@@ -126,4 +126,4 @@ Contents
    frontend/User Verified
    frontend/Apply 
    frontend/How To Use
->>>>>>> b974f93 (Changes to various frontend docs including updates)
+
