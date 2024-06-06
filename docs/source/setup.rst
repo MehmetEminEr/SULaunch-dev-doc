@@ -160,7 +160,7 @@ frontend_react/src/contracts_hardhat directory:
 
 pnpm hardhat compile
 
-pnpm hardhat run scripts/deploy_maestro.js –polygon_mumbai
+pnpm hardhat run scripts/deploy_maestro.js –polygon_amoy
 
 After the contracts are deployed, their addresses will be printed to the
 console. These addresses need to be set in the location of the contract
@@ -178,7 +178,7 @@ Enviorment Variables:
 
 They can also be set in the following files:
 
-=======
+
 Enviorment Variables:
 -  REACT_APP_MAESTRO_ADDRESS for Maestro(Auction) Contract
 -  REACT_APP_PROJECT_REGISTER_ADDRESS for ProjectRegister Contract
