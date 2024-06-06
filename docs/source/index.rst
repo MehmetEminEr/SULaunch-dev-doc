@@ -106,14 +106,14 @@ Contents
 
    frontend/Home New
    frontend/Project List
-<<<<<<< HEAD
+
    frontend/Create Tokens
    frontend/Create Auction
    frontend/Auctions
    frontend/Project
    frontend/Auction
    frontend/Profile Page
-<<<<<<< HEAD
+
 =======
    
 >>>>>>> d7236fb (setup revert)
