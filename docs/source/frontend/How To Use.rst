@@ -16,7 +16,7 @@ Overview
 Key Features
 ------------
 
-* **Redirect**: On component mount, the useEffect React hook is used to redirect the user to the "how to use" guide hosted on an external site (`https://umutondersu.github.io/Sulaunch/`).
+* **Redirect**: On component mount, the useEffect React hook is used to redirect the user to the "how to use" guide hosted on an external site (`https://sulaunch-1.gitbook.io/sulaunch/`).
 
 * **Placeholder**: While the page is redirecting, a message "Redirecting..." is displayed to the user. This can be replaced with a loading gif or any other visual cue to indicate the ongoing redirection.
 
